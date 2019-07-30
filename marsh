@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Marsh</title>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head>
+<body>
+<h1 align="center" style="color:#01a1c1"> MARSH </h1>
+  <p>Resize the browser window to see the effect.</p>
+  <div class="d-flex justify-content-center">
+    <div class="d-inline-flex  align-items-center mb-3" style="background-color:#01a1c1; height: 200px" align="center">
+	WHO WE ARE - 
+	<br> <br>Marsh is a global leader in insurance broking and risk management. 
+	<br> We help clients quantify and manage risk — and help them unlock new opportunities for growth.
+	</div>
+  </div>
+  <div class="flexbox mb-3">
+    <div style="background-color:#01a1c1; width: 32%;" align="center">
+	WHAT WE DO - 
+	<br> <br> We provide industry-focused consulting, brokerage, and claims advocacy services, and leverage data, technology, and analytics to help reduce our clients’ total cost of risk.
+	</div>
+    <div style="background-color: white; width: 32%;" align="center"> 
+	AWARDS - 
+	<br> <br> Each year, Marsh USA, its colleagues, and its risk practices are recognized for achievements in customer service, innovation, industry expertise, and product development.  View our recent awards below.
+	</div>
+	<div style="background-color:#01a1c1; width: 32%;" align="center"> 
+	LEADERSHIP -
+	<br> <br> Clients trust Marsh to help them thrive and survive. Our executive officers bring expertise, insight, and experience to the business of running a multifaceted, global operation.ecent awards below.
+	</div>
+  </div>
+    <div class="row">
+    <div class="col-lg-4" style="background-color:#01a1c1" align="center">
+	WHAT WE DO - 
+	<br> <br> We provide industry-focused consulting, brokerage, and claims advocacy services, and leverage data, technology, and analytics to help reduce our clients’ total cost of risk.
+	</div>
+    <div class="col-lg-4" style="background-color: white" align="center"> 
+	AWARDS - 
+	<br> <br> Each year, Marsh USA, its colleagues, and its risk practices are recognized for achievements in customer service, innovation, industry expertise, and product development.  View our recent awards below.
+	</div>
+	<div class="col-lg-4" style="background-color:#01a1c1" align="center"> 
+	LEADERSHIP -
+	<br> <br> Clients trust Marsh to help them thrive and survive. Our executive officers bring expertise, insight, and experience to the business of running a multifaceted, global operation.ecent awards below.
+	</div>
+  </div>
+</body>
+<style>
+.flexbox {
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around
+}
+</style>
+</html>
