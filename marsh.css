@@ -1,0 +1,35 @@
+body {
+	font-size: 20px;
+}
+
+.flexbox {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around
+}
+
+.bg1 {
+	background-color: #01a1c1; 
+	width: 32%; 
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+}
+
+.bg2 {
+	background-color: white; 
+	width: 32%; 
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+}
+
+.bg3 {
+	background-color:#084d8b; 
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+}
+
+.bg4 {
+background-color: #01a1c1; 
+padding: 10px 10px 10px 10px;
+text-align: center;
+}
